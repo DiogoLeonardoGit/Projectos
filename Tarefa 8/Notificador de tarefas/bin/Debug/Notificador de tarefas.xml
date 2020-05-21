@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Notificador de tarefas
+</name>
+</assembly>
+<members>
+<member name="T:Notificador_de_tarefas.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Notificador_de_tarefas.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Notificador_de_tarefas.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.AlunoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.DisciplinaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.ProfessorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.ProfessorDisciplinasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.TarefaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.AlunoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.DisciplinaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.ProfessorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.ProfessorDisciplinasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.TarefaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.AlunoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.DisciplinaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.ProfessorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.ProfessorDisciplinasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSet.TarefaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.AlunoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.DisciplinaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.ProfessorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.ProfessorDisciplinasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.TarefaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Notificador_de_tarefas.WinTarefaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Notificador_de_tarefas.WinTarefaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Notificador_de_tarefas.WinTarefaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.TableAdapterManager.UpdateAll(Notificador_de_tarefas.WinTarefaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Notificador_de_tarefas.WinTarefaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,30 @@
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\bin\Debug\Notificador de tarefas.exe.config
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\bin\Debug\Notificador de tarefas.exe
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\bin\Debug\Notificador de tarefas.pdb
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\bin\Debug\Notificador de tarefas.xml
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador de tarefas.vbprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador_de_tarefas.Form1.resources
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador_de_tarefas.LoginForm1.resources
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador_de_tarefas.Resources.resources
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador_de_tarefas.SplashScreen1.resources
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador de tarefas.vbproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador de tarefas.vbproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador de tarefas.exe
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador de tarefas.xml
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador de tarefas.pdb
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\bin\Debug\WinTarefa.mdf
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\bin\Debug\WinTarefa_log.ldf
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\bin\Debug\Notificador de tarefas.exe.config
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\bin\Debug\Notificador de tarefas.exe
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\bin\Debug\Notificador de tarefas.pdb
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\bin\Debug\Notificador de tarefas.xml
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador de tarefas.vbprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador_de_tarefas.Form1.resources
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador_de_tarefas.LoginForm1.resources
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador_de_tarefas.Resources.resources
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador_de_tarefas.SplashScreen1.resources
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador de tarefas.vbproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador de tarefas.vbproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador de tarefas.exe
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador de tarefas.xml
+C:\Users\Utilizador\Desktop\Escola\11º\Psi\Desenvolvendo\Projeto\Notificador de tarefas\Notificador de tarefas\obj\Debug\Notificador de tarefas.pdb
