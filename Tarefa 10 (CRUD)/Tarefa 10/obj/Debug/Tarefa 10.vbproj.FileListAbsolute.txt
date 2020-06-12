@@ -1,0 +1,11 @@
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 10\Tarefa 10\bin\Debug\Tarefa 10.exe.config
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 10\Tarefa 10\bin\Debug\Tarefa 10.exe
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 10\Tarefa 10\bin\Debug\Tarefa 10.pdb
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 10\Tarefa 10\bin\Debug\Tarefa 10.xml
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 10\Tarefa 10\obj\Debug\Tarefa 10.vbprojAssemblyReference.cache
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 10\Tarefa 10\obj\Debug\Tarefa_10.Resources.resources
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 10\Tarefa 10\obj\Debug\Tarefa 10.vbproj.GenerateResource.cache
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 10\Tarefa 10\obj\Debug\Tarefa 10.vbproj.CoreCompileInputs.cache
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 10\Tarefa 10\obj\Debug\Tarefa 10.exe
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 10\Tarefa 10\obj\Debug\Tarefa 10.xml
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 10\Tarefa 10\obj\Debug\Tarefa 10.pdb
